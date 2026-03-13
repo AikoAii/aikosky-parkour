@@ -134,11 +134,12 @@ AikoSkyParkour.exe
 
 Proyek kecil ini dibuat untuk:
 
-* belajar **game development dengan C++**
+* belajar **game development dengan C++ menggunakan library Raylib**
 * melatih **struktur kode modular**
 * mencoba **build system CMake lintas platform**
+* belajar logika prosedural
 
-Silakan eksplorasi kode jika tertarik.
+Silakan eksplorasi kode jika tertarik. 
 
 ---
 
