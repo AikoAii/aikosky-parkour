@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/AikoSkyParkour.dir/link.d CMakeFiles/AikoSkyParkour.dir/main.cpp.o CMakeFiles/AikoSkyParkour.dir/src/game.cpp.o CMakeFiles/AikoSkyParkour.dir/src/physics.cpp.o CMakeFiles/AikoSkyParkour.dir/src/player.cpp.o CMakeFiles/AikoSkyParkour.dir/src/renderer.cpp.o -o AikoSkyParkour  /usr/lib/libraylib.so.6.0.0 -lm -lpthread -ldl -lrt -lX11
