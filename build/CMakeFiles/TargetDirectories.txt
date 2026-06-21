@@ -1,0 +1,3 @@
+/home/chikochi/test/aikosky-parkour/build/CMakeFiles/AikoSkyParkour.dir
+/home/chikochi/test/aikosky-parkour/build/CMakeFiles/edit_cache.dir
+/home/chikochi/test/aikosky-parkour/build/CMakeFiles/rebuild_cache.dir
